@@ -25,6 +25,6 @@ python3 scripts/sticker.py check <工作目录>
 
 `submit/` 包含已提供的投稿素材，`预览.html` 可播放动图，`交付给客户.zip` 包含 `submit/` 和上架文案。缺失素材不会自动补齐；机器检查不替代文字、动作、版权及微信审核的人工核对。规格快照见 [微信规则](references/wechat-rules.md)，提交时以平台当时的要求为准。
 
-## 来源与许可
+## 许可
 
-素材合成与检查脚本改编自 [ray-sticker-shop](https://github.com/imraywang/ray-sticker-shop)，保留原项目 [MIT 许可和版权声明](LICENSE)。本项目的流程和提示词按本项目需求调整。
+本项目采用 [MIT 许可证](LICENSE)。

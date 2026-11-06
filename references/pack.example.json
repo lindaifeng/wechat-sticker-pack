@@ -1,0 +1,21 @@
+{
+  "name": "小助手日常",
+  "intro": "小助手的日常聊天表情",
+  "copyright": "",
+  "reward_line": "",
+  "mode": "dynamic",
+  "character": "character.png",
+  "style": "保持参考图角色形象及画风",
+  "background": "transparent",
+  "frame_ms": 120,
+  "stickers": [
+    {"word": "收到", "caption": "", "action": "站直敬礼并点头"},
+    {"word": "你好", "caption": "", "action": "微笑招手打招呼"},
+    {"word": "谢谢", "caption": "", "action": "双手合十微微鞠躬"},
+    {"word": "比心", "caption": "", "action": "双手在胸前比出爱心"},
+    {"word": "开心", "caption": "", "action": "张开双臂欢呼跳起"},
+    {"word": "晚安", "caption": "", "action": "抱枕闭眼入睡"},
+    {"word": "摸鱼中", "caption": "", "action": "抱着小鱼左右张望"},
+    {"word": "下班了", "caption": "", "action": "背包转身挥手告别"}
+  ]
+}
